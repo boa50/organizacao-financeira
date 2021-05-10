@@ -1,3 +1,6 @@
-import tensorflow as tf
+from flask import Flask
+app = Flask(__name__)
 
-print(tf.__version__)
+@app.route('/')
+def hello_world():
+    return 'Hello, World!'
