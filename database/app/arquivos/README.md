@@ -1,0 +1,1 @@
+Pasta na qual serão armazenados os arquivos para leitura.

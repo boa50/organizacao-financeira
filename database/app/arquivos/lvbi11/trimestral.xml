@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DadosEconomicoFinanceiros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<DadosGerais>
+		<NomeFundo>FUNDO DE INVESTIMENTO IMOBILIÁRIO – VBI LOGÍSTICO</NomeFundo>
+		<CNPJFundo>30629603000118</CNPJFundo>
+		<DataFuncionamento>2018-11-09</DataFuncionamento>
+		<PublicoAlvo>Investidores em Geral</PublicoAlvo>
+		<CodigoISIN>BRLVBICTF002</CodigoISIN>
+		<QtdCotasEmitidas>11775177</QtdCotasEmitidas>
+		<FundoExclusivo>false</FundoExclusivo>
+		<EnquadraNotaSeis>false</EnquadraNotaSeis>
+		<VinculoFamiliarCotistas>false</VinculoFamiliarCotistas>
+		<Autorregulacao>
+			<Mandato>Renda</Mandato>
+			<SegmentoAtuacao>Logística</SegmentoAtuacao>
+			<TipoGestao>Ativa</TipoGestao>
+		</Autorregulacao>
+		<PrazoDuracao>Indeterminado</PrazoDuracao>
+		<DataPrazoDuracao xsi:nil="true"/>
+		<EncerramentoExercicio>30/06</EncerramentoExercicio>
+		<MercadoNegociacao>
+			<Bolsa>true</Bolsa>
+			<MBO>false</MBO>
+			<MB>false</MB>
+		</MercadoNegociacao>
+		<EntidadeAdministradora>
+			<BVMF>true</BVMF>
+			<CETIP>false</CETIP>
+		</EntidadeAdministradora>
+		<NomeAdministrador>BTG Pactual Serviços Financeiros S.A. – DTVM</NomeAdministrador>
+		<CNPJAdministrador>30629603000118</CNPJAdministrador>
+		<Logradouro>Praia de Botafogo</Logradouro>
+		<Numero>501</Numero>
+		<Complemento>6º Andar</Complemento>
+		<Bairro>Botafogo</Bairro>
+		<Cidade>Rio de Janeiro</Cidade>
+		<Estado>RJ</Estado>
+		<CEP>22250-040</CEP>
+		<Telefone1>(11) 3383-3102</Telefone1>
+		<Telefone2/>
+		<Telefone3 xsi:nil="true"/>
+		<Site>www.btgpactual.com</Site>
+		<Email>ri.fundoslistados@btgpactual.com</Email>
+		<Competencia>4/2020</Competencia>
+		<DataEncerTrimestre>2020-12-31</DataEncerTrimestre>
+	</DadosGerais>
+	<InformeTrimestral>
+		<InfoTipoAtivo>
+			<DireitosReaisImoveis>
+				<Terrenos>
+				</Terrenos>
+				<Imoveis>
+					<ImoveisRendaAcabados>
+						<LstImovRendaAcabados>
+							<Imovel>
+								<Nome>Galpão - Guarulhos</Nome>
+								<Endereco>Rua Manoel Borba Gato 100, Guarulhos, SP, 07044-220</Endereco>
+								<Area>24415.99</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Direito de Propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.103174</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Logístico</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.103174</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Galpão - Pirituba</Nome>
+								<Endereco>Av. Mutinga 4935,  São Paulo, SP, 5110900</Endereco>
+								<Area>10842.45</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Direito de Propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.087968</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Outros</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.087968</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Galpão- Itapevi</Nome>
+								<Endereco>Estrada da Capelha Velha 400, Itapevi, SP, 6690-280</Endereco>
+								<Area>34922</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Direito de Propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>0.0331</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.078402</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Logística</SetorAtuacao><PercentReceitaImovel>0.256888</PercentReceitaImovel><PercentReceitasFII>0.025411</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> Vestuário</SetorAtuacao><PercentReceitaImovel>0.170898</PercentReceitaImovel><PercentReceitasFII>0.016905</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Galpão - Araucária</Nome>
+								<Endereco>Rua Pedro de Alcantara Meira 1001,  Araucaria, PR, 83704-530</Endereco>
+								<Area>42696.84</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Direito de Propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.117961</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Logística</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.117961</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Galpão - Mauá</Nome>
+								<Endereco>Avenida Papa João XXIII 3059, Mauá, SP, 09370-800</Endereco>
+								<Area>29718</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Direito de Propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.080276</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Varejo</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.080276</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Galpão - Extrema</Nome>
+								<Endereco>Rodovia Fernão Dias KM 947.5,  Extrema, MG, 37640-000</Endereco>
+								<Area>97822.22</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Direito de Propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>0.01</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.445459</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Logistica</SetorAtuacao><PercentReceitaImovel>0.501565</PercentReceitaImovel><PercentReceitasFII>0.223427</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Bebidas</SetorAtuacao><PercentReceitaImovel>0.365028</PercentReceitaImovel><PercentReceitasFII>0.162605</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+						</LstImovRendaAcabados>
+						<DistrContratosPrazo>
+							<AteTresMeses/>
+							<TresAteSeisMeses/>
+							<SeisAteNoveMeses percentReceitaImovel="0.045589" percentReceitasFII="0.041633"/>
+							<NoveAteDozeMeses percentReceitaImovel="0.040535" percentReceitasFII="0.037018"/>
+							<DozeAteQuinzeMeses/>
+							<QuinzeAteDezoitoMeses percentReceitaImovel="0.011958" percentReceitasFII="0.01092"/>
+							<DezoitoAteVinteUmMeses/>
+							<VinteUmAteVinteQuatroMeses/>
+							<VinteQuatroAteVinteSeteMeses percentReceitaImovel="0.019881" percentReceitasFII="0.018156"/>
+							<VinteSeteAteTrintaMeses percentReceitaImovel="0.159756" percentReceitasFII="0.145896"/>
+							<TrintaAteTrintaTresMeses percentReceitaImovel="0.004788" percentReceitasFII="0.004373"/>
+							<TrintaTresAteTrintaSeisMeses percentReceitaImovel="0.004316" percentReceitasFII="0.003942"/>
+							<AcimaTrintaSeisMeses percentReceitaImovel="0.66636" percentReceitasFII="0.608547"/>
+							<PrazoIndeterminado percentReceitaImovel="0.046817" percentReceitasFII="0.042755"/>
+						</DistrContratosPrazo>
+						<DistrContratosIndexador>
+							<IGPM percentReceitaImovel="0.675144" percentReceitasFII="0.587704"/>
+							<INPC/>
+							<IPCA percentReceitaImovel="0.232636" percentReceitasFII="0.202506"/>
+							<INCC/>
+							<OutrosIndicadores>
+								<Indicador nome="Outros" percentReceitaImovel="0.09222" percentReceitasFII="0.080276"/>
+								<Indicador nome="IGP-DI"/>
+							</OutrosIndicadores>
+						</DistrContratosIndexador>
+						<CaractContratuaisComuns>Os contratos de locação possuem algumas características comuns as quais esta administradora considera relevantes para as locações dos fundos que administra:
+a) Cláusulas de Benfeitorias
+b) Cláusulas de revisão de aluguel – seguindo a legislação vigente
+c) Tipo de indexador – normalmente indicamos IGPM-FGV como indexador para reajuste de locação
+d) Garantia exigida – as garantias aceitas são garantia bancária (fiança ou seguro fiança) ou deposito caução
+
+Vale ressaltar que cada contrato é negociado, cláusula a cláusula com o locatário, logo podem haver contratos firmados que não seguem os itens descritos acima a rigor, mas a maioria dos contratos são firmados com considerando os pontos descritos acima.</CaractContratuaisComuns>
+						<CaractContratuaisIndividual>
+							<Imovel>
+								<NomeOuEndereco>Galpão - Guarulhos</NomeOuEndereco>
+								<CaractContratuais>Não possui caracteristicas que destoem dos demais</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Galpão - Pirituba</NomeOuEndereco>
+								<CaractContratuais>Não possui caracteristicas que destoem dos demais</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Galpão- Itapevi</NomeOuEndereco>
+								<CaractContratuais>Não possui caracteristicas que destoem dos demais</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Galpão - Araucária</NomeOuEndereco>
+								<CaractContratuais>Não possui caracteristicas que destoem dos demais</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Galpão - Mauá</NomeOuEndereco>
+								<CaractContratuais>Não possui caracteristicas que destoem dos demais</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Galpão - Extrema</NomeOuEndereco>
+								<CaractContratuais>Não possui caracteristicas que destoem dos demais</CaractContratuais>
+							</Imovel>
+						</CaractContratuaisIndividual>
+						<PoliticaContratacaoSeguro>Para a contratação de seguros, seguimos a política de, após identificar a necessidade de contratação, por meio de controles de prazos de vencimento, providenciar a especificação técnica dos seguros a serem contratados e, na sequência, a solicitação de no mínimo 3 (três) cotações.
+
+Com base nos detalhes técnicos, buscamos no mercado empresas que atendam a demanda para a realização das cotações.
+
+As propostas devem conter, no mínimo: (a) preço; (b) descrição do serviço ou especificação do produto; (c) condições de pagamento e (d) prazo de entrega. É aconselhável solicitar ao proponente que a minuta do contrato a ser celebrado seja encaminhada juntamente com a proposta.</PoliticaContratacaoSeguro>
+					</ImoveisRendaAcabados>
+					<ImoveisRendaConstrucao>
+						<LstImovRendaConstrucao>
+						</LstImovRendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisRendaConstrucao>
+					<ImoveisVendaAcabados>
+						<LstImovVendaAcabados>
+						</LstImovVendaAcabados>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaAcabados>
+					<ImoveisVendaConstrucao>
+						<LstImovVendaConstrucao>
+						</LstImovVendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaConstrucao>
+				</Imoveis>
+				<OutrosDireitosReais>
+				</OutrosDireitosReais>
+			</DireitosReaisImoveis>
+			<AtivosFinanceiros>
+				<FII>
+				</FII>
+				<CRI>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>12/09/2019</Emissao>
+						<Serie>253</Serie>
+						<Quantidade>7009</Quantidade>
+						<Valor>7022872</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>12/09/2019</Emissao>
+						<Serie>252</Serie>
+						<Quantidade>7009</Quantidade>
+						<Valor>7022305.6</Valor>
+					</Emissor>
+				</CRI>
+				<LCI>
+				</LCI>
+				<LIG>
+				</LIG>
+				<CEPAC>
+				</CEPAC>
+				<Acoes>
+				</Acoes>
+				<AcoesSocFII>
+				</AcoesSocFII>
+				<CotasSocFII>
+				</CotasSocFII>
+				<FIA>
+				</FIA>
+				<FIP>
+				</FIP>
+				<FIDC>
+				</FIDC>
+				<OutrasCotasFI>
+					<Emissor>
+						<Fundo>BTGP TESOURO SELIC FI RF REFERENCIADO DI</Fundo>
+						<CNPJ>9215250000113</CNPJ>
+						<Quantidade>158195301.55</Quantidade>
+						<Valor>490402144.64</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>ITAU INSTITUCIONAL RENDA FIXA DI FI </Fundo>
+						<CNPJ>832435000100</CNPJ>
+						<Quantidade>99.78</Quantidade>
+						<Valor>318226.67</Valor>
+					</Emissor>
+				</OutrasCotasFI>
+				<OutrosAtivosFinanceiros>
+					<Ativo>
+						<Emissor>BANCO BTG PACTUAL S A</Emissor>
+						<CNPJ>30306294000145</CNPJ>
+						<NomeAtivo/>
+						<Quantidade>85144</Quantidade>
+						<Valor>86262.223398</Valor>
+					</Ativo>
+					<Ativo>
+						<Emissor>BANCO BTG PACTUAL S A</Emissor>
+						<CNPJ>30306294000145</CNPJ>
+						<NomeAtivo/>
+						<Quantidade>169219</Quantidade>
+						<Valor>171441.407277</Valor>
+					</Ativo>
+				</OutrosAtivosFinanceiros>
+			</AtivosFinanceiros>
+			<AtivosNecessidadeLiquidez>
+				<Disponibilidades>195.53</Disponibilidades>
+				<TitulosPublicos>0</TitulosPublicos>
+				<TitulosPrivados>0</TitulosPrivados>
+				<FundosRendaFixa>257703.63</FundosRendaFixa>
+			</AtivosNecessidadeLiquidez>
+		</InfoTipoAtivo>
+		<AquisicoesAlienacoes>
+			<Terrenos>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Terrenos>
+			<Imoveis>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Imoveis>
+		</AquisicoesAlienacoes>
+		<OutrasInfo>
+			<RentabilidadeGarantida>
+				<AtivosGarantiaRent>
+				</AtivosGarantiaRent>
+				<RentEfetivaVigGarantia>
+				</RentEfetivaVigGarantia>
+			</RentabilidadeGarantida>
+		</OutrasInfo>
+		<DemonstracoesContabilFinanc>
+			<AtivosImobiliarios>
+				<Estoques>
+					<ReceitasVenda/>
+					<CustoImovEstoque/>
+					<AjusteValor/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="0" financeiro="0"/>
+				</Estoques>
+				<PropriedadesInvest>
+					<ReceitasAlugueis contabil="18129576.28" financeiro="18129576.28"/>
+					<DespManutencaoConservacao contabil="0" financeiro="0"/>
+					<ReceitasVenda/>
+					<CustoPropriedadesVendidas/>
+					<AjusteValor financeiro="0"/>
+					<OutrasRecOuDesp contabil="194422.21" financeiro="194422.21"/>
+					<ResultadoLiquido contabil="18323998.49" financeiro="18323998.49"/>
+				</PropriedadesInvest>
+				<TVM>
+					<ReceitasJuros contabil="111761.5" financeiro="156384.88"/>
+					<AjusteValor contabil="4363.14" financeiro="0"/>
+					<ResultadoVenda contabil="0" financeiro="0"/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="116124.64" financeiro="156384.88"/>
+				</TVM>
+				<ResultadoLiquidoTotal contabil="18440123.13" financeiro="18480383.37"/>
+			</AtivosImobiliarios>
+			<RecursosLiquidez>
+				<ReceitasJurosAplicacoes contabil="1143898.85" financeiro="1143898.85"/>
+				<AjusteValorAplicacoes/>
+				<ResultadoVendaAplicacoes/>
+				<OutrasRecOuDespAplicacoes contabil="-728.42" financeiro="-728.42"/>
+				<ResultadoLiquido contabil="1143170.43" financeiro="1143170.43"/>
+			</RecursosLiquidez>
+			<ResultadoLiquidoDerivativos/>
+			<OutrasReceitasDespesas>
+				<TaxaAdministracao contabil="-3674491.39" financeiro="-3674491.39"/>
+				<TaxaDesempenho/>
+				<ConsultoriaEspecializada contabil="0" financeiro="0"/>
+				<EmpresaEspecializada/>
+				<FormadorMercado/>
+				<CustodiaTitulosValores/>
+				<AuditoriaIndependente contabil="-11719.47" financeiro="-27500"/>
+				<RepresentantesCotistas/>
+				<TaxasImpostosContribuicoes contabil="28361.3" financeiro="28361.3"/>
+				<ComissoesEmolumentos contabil="0" financeiro="0"/>
+				<HonorariosDespesasDefesas contabil="-77081.85" financeiro="-77081.85"/>
+				<GastosContratosSeguros/>
+				<DespesasAvaliacoes contabil="-16412.64" financeiro="0"/>
+				<TaxasIngressoSaidaFundos/>
+				<DespesasRegistroCartorio contabil="0" financeiro="0"/>
+				<OutrasRecOuDesp contabil="-44399.47" financeiro="-44399.47"/>
+				<Total contabil="-3795743.52" financeiro="-3795111.41"/>
+			</OutrasReceitasDespesas>
+			<ResultadoTrimestralLiquido contabil="15787550.04" financeiro="15828442.39"/>
+		</DemonstracoesContabilFinanc>
+		<DistrResultadoAcumulado>
+			<ResultadoFinanLiqAcumulado>29572492.01</ResultadoFinanLiqAcumulado>
+			<PercentResultFinanLiqAcumulado>28093867.4095</PercentResultFinanLiqAcumulado>
+			<ParcelaDistribuidaTriSeguinte xsi:nil="true"/>
+			<ParcelasRendimentosRetidos>
+			</ParcelasRendimentosRetidos>
+			<LucroContabil xsi:nil="true"/>
+			<ResultadoFinanceiroExcedeMinimo>1478624.6</ResultadoFinanceiroExcedeMinimo>
+			<RendimentosDeclarados>29572492.0095</RendimentosDeclarados>
+			<RendimentosPagosAntec>-17914750.88</RendimentosPagosAntec>
+			<RendimentoPagar>11657741.1295</RendimentoPagar>
+			<ResultadoLiquidoDeclarado>1</ResultadoLiquidoDeclarado>
+		</DistrResultadoAcumulado>
+	</InformeTrimestral>
+</DadosEconomicoFinanceiros>

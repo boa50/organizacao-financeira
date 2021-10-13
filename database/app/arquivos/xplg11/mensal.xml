@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DadosEconomicoFinanceiros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <DadosGerais>
+        <NomeFundo>FII XP LOG</NomeFundo>
+        <CNPJFundo>26502794000185</CNPJFundo>
+        <DataFuncionamento>2018-06-01</DataFuncionamento>
+        <PublicoAlvo>Investidores em Geral</PublicoAlvo>
+        <CodigoISIN>BRXPLGCTF002</CodigoISIN>
+        <QtdCotasEmitidas>27101061.0002</QtdCotasEmitidas>
+        <FundoExclusivo>false</FundoExclusivo>
+        <VinculoFamiliarCotistas>false</VinculoFamiliarCotistas>
+        <Autorregulacao>
+            <Mandato>Híbrido</Mandato>
+            <SegmentoAtuacao>Logística</SegmentoAtuacao>
+            <TipoGestao>Ativa</TipoGestao>
+        </Autorregulacao>
+        <PrazoDuracao>Indeterminado</PrazoDuracao>
+        <DataPrazoDuracao xsi:nil="true"/>
+        <EncerramentoExercicio>31/12</EncerramentoExercicio>
+        <MercadoNegociacao>
+            <Bolsa>true</Bolsa>
+            <MBO>false</MBO>
+            <MB>false</MB>
+        </MercadoNegociacao>
+        <EntidadeAdministradora>
+            <BVMF>true</BVMF>
+            <CETIP>false</CETIP>
+        </EntidadeAdministradora>
+        <NomeAdministrador>VÓRTX DTVM LTDA</NomeAdministrador>
+        <CNPJAdministrador>22610500000188</CNPJAdministrador>
+        <Logradouro>Rua Gilberto Sabino</Logradouro>
+        <Numero>215</Numero>
+        <Complemento>4º ANDAR</Complemento>
+        <Bairro>Pinheiros</Bairro>
+        <Cidade>São Paulo</Cidade>
+        <Estado>SP</Estado>
+        <CEP>5425020</CEP>
+        <Telefone1>11 3030-7177</Telefone1>
+        <Telefone2 xsi:nil="true"/>
+        <Telefone3 xsi:nil="true"/>
+        <Site>www.vortx.com.br</Site>
+        <Email>admfundos@vortx.com.br</Email>
+        <Competencia>2021-03-31</Competencia>
+    </DadosGerais>
+    <InformeMensal>
+        <Cotistas data_informacao="2021-03-31" total="256069">
+            <PessoaFisica>255440</PessoaFisica>
+            <PJNaoFinanceira>0</PJNaoFinanceira>
+            <BancoComercial xsi:nil="true"/>
+            <CorretoraDistribuidora xsi:nil="true"/>
+            <OutrasPJFinanceiras xsi:nil="true"/>
+            <InvestidoresNaoResidentes>6</InvestidoresNaoResidentes>
+            <EntidadeAbertaPrevCompl>3</EntidadeAbertaPrevCompl>
+            <EntidadeFechadaPrevCompl>7</EntidadeFechadaPrevCompl>
+            <RegimeProprioPrev xsi:nil="true"/>
+            <SociedadeSeguradora xsi:nil="true"/>
+            <SociedadeCapArrendMercantil xsi:nil="true"/>
+            <FundosInvImobiliario>27</FundosInvImobiliario>
+            <OutrosFundosInv>51</OutrosFundosInv>
+            <CotistasDistFundo xsi:nil="true"/>
+            <OutrosTiposCotistas>535</OutrosTiposCotistas>
+        </Cotistas>
+        <Resumo>
+            <Ativo>3111431004.81</Ativo>
+            <PatrimonioLiquido>3001645978.98</PatrimonioLiquido>
+            <NumCotasEmitidas>27101061.0002</NumCotasEmitidas>
+            <ValorPatrCotas>110.75750794</ValorPatrCotas>
+            <DespesasTxAdministracao>0.000736</DespesasTxAdministracao>
+            <DespesasAgCustodiante>0</DespesasAgCustodiante>
+            <RentEfetivaMensal total="0.01280834">
+                <RentPatrimonialMes>0.00744175</RentPatrimonialMes>
+                <DividendYieldMes>0.00536659</DividendYieldMes>
+            </RentEfetivaMensal>
+            <AmortizAcoesCotas>0</AmortizAcoesCotas>
+        </Resumo>
+        <InformacoesAtivo>
+            <TotalNecessidadesLiq total="743095465.90">
+                <Disponibilidades>612448.61</Disponibilidades>
+                <TitulosPublicos>134999637.72</TitulosPublicos>
+                <TitulosPrivados>0</TitulosPrivados>
+                <FundosRendaFixa>607483379.57</FundosRendaFixa>
+            </TotalNecessidadesLiq>
+            <TotalInvestido total="2354243830.14">
+                <DireitosBensImoveis total="1355364455.37">
+                    <Terrenos>0</Terrenos>
+                    <ImoveisRendaAcabados>688741013.75</ImoveisRendaAcabados>
+                    <ImoveisRendaConstrucao>666623441.62</ImoveisRendaConstrucao>
+                    <ImoveisVendaAcabados>0</ImoveisVendaAcabados>
+                    <ImoveisVendaConstrucao>0</ImoveisVendaConstrucao>
+                    <OutrosDireitosReais>0</OutrosDireitosReais>
+                </DireitosBensImoveis>
+                <Acoes>0</Acoes>
+                <Debentures>0</Debentures>
+                <BonusSubscricao>0</BonusSubscricao>
+                <CertificadosDepositoValMob>0</CertificadosDepositoValMob>
+                <CedulasDebentures>0</CedulasDebentures>
+                <FIA>0</FIA>
+                <FIP>0</FIP>
+                <FII>657306031.81</FII>
+                <FDIC>0</FDIC>
+                <OutrasCotasFI>0</OutrasCotasFI>
+                <NotasPromissorias>0</NotasPromissorias>
+                <AcoesSociedadesAtivFII>341573342.96</AcoesSociedadesAtivFII>
+                <CotasSociedadesAtivFII>0</CotasSociedadesAtivFII>
+                <CEPAC>0</CEPAC>
+                <CRI>0</CRI>
+                <LetrasHipotecarias>0</LetrasHipotecarias>
+                <LCI>0</LCI>
+                <LIG>0</LIG>
+                <OutrosValoresMobliarios>0</OutrosValoresMobliarios>
+            </TotalInvestido>
+            <ValoresReceber total="14091708.77">
+                <Alugueis>9724451.39</Alugueis>
+                <VendaImoveis>0</VendaImoveis>
+                <OutrosValores>4367257.38</OutrosValores>
+            </ValoresReceber>
+        </InformacoesAtivo>
+        <InformacoesPassivo>
+            <RendimentosDistribuir>15989625.99</RendimentosDistribuir>
+            <TxAdministracaoPagar>2210109.51</TxAdministracaoPagar>
+            <TxPerformancePagar>0</TxPerformancePagar>
+            <ObrigacoesAquisicaoImov>1406262.02</ObrigacoesAquisicaoImov>
+            <AdiantamentoVendaImov>0</AdiantamentoVendaImov>
+            <AdiantamentoAlugueis>0</AdiantamentoAlugueis>
+            <ObrigacoesSecRecebiveis>0</ObrigacoesSecRecebiveis>
+            <InstrumentosFinanceirosDeriv>0</InstrumentosFinanceirosDeriv>
+            <ProvisoesContigencias>0</ProvisoesContigencias>
+            <OutrosValoresPagar>90179028.31</OutrosValoresPagar>
+            <TotalPassivo>109785025.83</TotalPassivo>
+        </InformacoesPassivo>
+    </InformeMensal>
+</DadosEconomicoFinanceiros>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DadosEconomicoFinanceiros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<DadosGerais>
+		<NomeFundo>XP Log Fundo de Investimento Imobiliário - FII</NomeFundo>
+		<CNPJFundo>26502794000185</CNPJFundo>
+		<DataFuncionamento>2018-04-26</DataFuncionamento>
+		<PublicoAlvo>Investidores em Geral</PublicoAlvo>
+		<CodigoISIN>BRXPLGCTF002</CodigoISIN>
+		<QtdCotasEmitidas>20757449.0002068</QtdCotasEmitidas>
+		<FundoExclusivo>false</FundoExclusivo>
+		<VinculoFamiliarCotistas>false</VinculoFamiliarCotistas>
+		<Autorregulacao>
+			<Mandato>Renda</Mandato>
+			<SegmentoAtuacao>Logística</SegmentoAtuacao>
+			<TipoGestao>Ativa</TipoGestao>
+		</Autorregulacao>
+		<PrazoDuracao>Indeterminado</PrazoDuracao>
+		<DataPrazoDuracao>2021-12-31</DataPrazoDuracao>
+		<EncerramentoExercicio>31/12</EncerramentoExercicio>
+		<MercadoNegociacao>
+			<Bolsa>true</Bolsa>
+			<MBO>false</MBO>
+			<MB>false</MB>
+		</MercadoNegociacao>
+		<EntidadeAdministradora>
+			<BVMF>true</BVMF>
+			<CETIP>false</CETIP>
+		</EntidadeAdministradora>
+		<NomeAdministrador>VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.</NomeAdministrador>
+		<CNPJAdministrador>26502794000185</CNPJAdministrador>
+		<Logradouro>Rua Gilberto Sabino</Logradouro>
+		<Numero>215</Numero>
+		<Complemento>4º Andar</Complemento>
+		<Bairro>Pinheiros</Bairro>
+		<Cidade>São Paulo</Cidade>
+		<Estado>SP</Estado>
+		<CEP>5425020</CEP>
+		<Telefone1>11 3030-7177</Telefone1>
+		<Telefone2 xsi:nil="true"/>
+		<Telefone3 xsi:nil="true"/>
+		<Site>www.vortx.com.br</Site>
+		<Email>admfundos@vortx.com.br</Email>
+		<Competencia>2020-12-01</Competencia>
+	</DadosGerais>
+	<InformeAnual>
+		<PrestadoresServicos>
+			<Gestor>
+				<Nome>XP VISTA ASSET MANAGEMENT LTDA.</Nome>
+				<CNPJ>16789525000198</CNPJ>
+				<Endereco>Av. Presidente Juscelino Kubitschek, n° 1909, Torre
+Sul, 30º andar, Itaim Bibi CEP 04543-010 - São Paulo -
+SP</Endereco>
+				<telefone>(11) 3526-0148</telefone>
+			</Gestor>
+			<Custodiante>
+				<Nome>VÓRTX DISTRIBUIDORA DE
+TÍTULOS E VALORES MOBILIÁRIOS LTDA</Nome>
+				<CNPJ>22610500000188</CNPJ>
+				<Endereco>Rua Gilberto Sabino, nº215, 4º andar, Pinheiros, SP, CEP 5425020</Endereco>
+				<telefone>(11) 3030-7177</telefone>
+			</Custodiante>
+			<AuditorIndependente>
+				<Nome>Ernst &amp; Young</Nome>
+				<CNPJ>59527788000131</CNPJ>
+				<Endereco>Av. Juscelino Kubitschek, nº 1909, Vila Nova Conceição, São Paulo, SP, CEP 04543011</Endereco>
+				<telefone>(11)2573-3000</telefone>
+			</AuditorIndependente>
+			<FormadorMercado>
+				<Nome xsi:nil="true"/>
+				<CNPJ xsi:nil="true"/>
+				<Endereco xsi:nil="true"/>
+				<telefone xsi:nil="true"/>
+			</FormadorMercado>
+			<DistribuidorCotas>
+				<Nome>XP Investimentos CCTVM S.A. </Nome>
+				<CNPJ>7625200000189</CNPJ>
+				<Endereco>Av. Presidente Juscelino Kubitschek, n° 1909, Torre Sul, 25º ao 30º andares, Itaim Bibi CEP 04543-010 - São Paulo - SP</Endereco>
+				<telefone>(11) 3526-1300</telefone>
+			</DistribuidorCotas>
+			<ConsultorEspecializado>
+				<Nome xsi:nil="true"/>
+				<CNPJ xsi:nil="true"/>
+				<Endereco xsi:nil="true"/>
+				<telefone xsi:nil="true"/>
+			</ConsultorEspecializado>
+			<EmpEspecializadaAdmLocacoes>
+				<Nome xsi:nil="true"/>
+				<CNPJ xsi:nil="true"/>
+				<Endereco xsi:nil="true"/>
+				<telefone xsi:nil="true"/>
+			</EmpEspecializadaAdmLocacoes>
+			<OutrosPrestadores>
+			</OutrosPrestadores>
+		</PrestadoresServicos>
+		<InvestimentosFII>
+			<NegociosRealizadosPeriodo>
+				<RelacaoAtivosAdquiridos>
+					<Ativo>
+						<Nome>Condomínio Logístico Syslog RJ + Sinal Syslog SP</Nome>
+						<Objetivos>Imóvel para Renda</Objetivos>
+						<MontantesInvestidos>125419706.67</MontantesInvestidos>
+						<OrigemRecursos>Captação da 4ª emissão</OrigemRecursos>
+					</Ativo>
+					<Ativo>
+						<Nome>Condomínio Logístico Santana Business Park</Nome>
+						<Objetivos>Imóvel para Renda</Objetivos>
+						<MontantesInvestidos>99490000</MontantesInvestidos>
+						<OrigemRecursos>Captação da 4ª emissão</OrigemRecursos>
+					</Ativo>
+				</RelacaoAtivosAdquiridos>
+			</NegociosRealizadosPeriodo>
+		</InvestimentosFII>
+		<ProgramaInvestimentos>Em 2021 o fundo irá alocar os R$ 719.999.962,00 captados na 5ª emissão conforme material da oferta, encerrada no final de janeiro de 2021. Em termos de portfólio já investido, o fundo conta com um Programa de Manutenção Preventiva (PMP), que garante o planejamento e execução de investimentos com vistas na preservação da qualidade dos ativos e também acompanhamento das operações dos locatários. O Gestor mantém o parâmetro de preservar em torno  de 1% do PL para ações de investimentos em benfeitorias e conservação estrtural dos imóveis do fundo.</ProgramaInvestimentos>
+		<AnaliseAdministrador>
+			<ResultadoFundo>Em 2020 o fundo demonstrou a sua capacidade de gerar renda, mesmo diante da mais grave pandemia da história do país. Apesar do cenário econômico adverso, o fundo foi capaz de manter um nível de distribuição estável, que girou em torno de R$ 0,58/cota.</ResultadoFundo>
+			<ConjunturaEconomica>O afrouxamento das políticas de isolamento social a partir meados de 2020 culminou na retomada da atividade econômica ao longo do segundo semestre. Apesar da delineação dos contornos de uma potencial recuperação em “v”, os severos impactos da crise sanitário-econômica ocasionada pelo COVID-19 devem provocar uma retração do PIB em torno de 4,1% no encerramento de 2020 - os dados divulgados no 3T20 sinalizavam uma contração do PIB próxima de 4,8%. Os rumos da economia brasileira de 2021 serão ditados, em linhas gerais, pela capacidade de o governo retomar as rédeas da esfera fiscal, mantendo sob controle os gastos públicos após o aumento do endividamento em virtude da crise, aprovar reformas estruturais e articular em prol da aquisição célere de vacinas e da implementação de um plano de imunização que seja eficaz (principal solução para a crise sanitária). Com relação à política monetária, destacamos que o COPOM iniciou o processo de normalização parcial da Selic, com vistas no controle inflacionário, mas ainda com elevado grau de estímulo à economia. Sobre o setor imobiliário, a reduzida taxa básica de juros permanece funcionando como mola propulsora de investimentos em estratégias específicas (como, por exemplo, no segmento logístico/industrial) em virtude não somente do potencial de geração de retornos acima do CDI como também para fins de diversificação de carteira. A perspectiva de crescimento econômico dos próximos anos, aliada à permanência da taxa básica de juros em níveis relativamente baixos (ainda com majorações parciais), contribuirão para a continuidade desta dinâmica. </ConjunturaEconomica>
+			<PerspectivaPeriodoSeguinte>Para o ano de 2021, em razão da qualidade e diversificação de locatários, esperamos novamente ter uma boa resiliência na renda do fundo, embora seja importante destacar o ambiente econômico instável e as dificuldades enfrentadas pelo país no processo de vacinação contra o COVID-19.</PerspectivaPeriodoSeguinte>
+		</AnaliseAdministrador>
+		<ValorContabilAtivos>
+			<Ativo>
+				<Nome>CACHOEIRINHA - CD Via Varejo</Nome>
+				<ValorJusto>SIM</ValorJusto>
+				<Valor>136200000</Valor>
+				<PercentValorizacaoDesvalorizacao>0.0632318501170961</PercentValorizacaoDesvalorizacao>
+			</Ativo>
+			<Ativo>
+				<Nome>CD RENNER - CD Renner </Nome>
+				<ValorJusto>SIM</ValorJusto>
+				<Valor>175900000</Valor>
+				<PercentValorizacaoDesvalorizacao>0.0322006512250732</PercentValorizacaoDesvalorizacao>
+			</Ativo>
+			<Ativo>
+				<Nome>DIA AMERICA - CD Dia% Americana</Nome>
+				<ValorJusto>SIM</ValorJusto>
+				<Valor>69800000</Valor>
+				<PercentValorizacaoDesvalorizacao>-0.00427960057061338</PercentValorizacaoDesvalorizacao>
+			</Ativo>
+			<Ativo>
+				<Nome>DIA RIBEIR - CD Dia% Ribeirão</Nome>
+				<ValorJusto>SIM</ValorJusto>
+				<Valor>57800000</Valor>
+				<PercentValorizacaoDesvalorizacao>0.015817223198594</PercentValorizacaoDesvalorizacao>
+			</Ativo>
+			<Ativo>
+				<Nome>IMO ITAPEVA - CD Panasonic </Nome>
+				<ValorJusto>SIM</ValorJusto>
+				<Valor>74600000</Valor>
+				<PercentValorizacaoDesvalorizacao>0.0294803639213086</PercentValorizacaoDesvalorizacao>
+			</Ativo>
+			<Ativo>
+				<Nome>SBP - Santana Business Park</Nome>
+				<ValorJusto>SIM</ValorJusto>
+				<Valor>96300000</Valor>
+				<PercentValorizacaoDesvalorizacao>-0.0320665630050027</PercentValorizacaoDesvalorizacao>
+			</Ativo>
+			<Ativo>
+				<Nome>Syslog RJ</Nome>
+				<ValorJusto>SIM</ValorJusto>
+				<Valor>155500000</Valor>
+				<PercentValorizacaoDesvalorizacao>0.136221748223357</PercentValorizacaoDesvalorizacao>
+			</Ativo>
+			<Ativo>
+				<Nome>WTTP2 - WTTP II </Nome>
+				<ValorJusto>SIM</ValorJusto>
+				<Valor>76500000</Valor>
+				<PercentValorizacaoDesvalorizacao>-0.217900562695702</PercentValorizacaoDesvalorizacao>
+			</Ativo>
+			<Ativo>
+				<Nome>CAJAMAR - CD Leroy </Nome>
+				<ValorJusto>SIM</ValorJusto>
+				<Valor>319000000</Valor>
+				<PercentValorizacaoDesvalorizacao>-0.0717983009742358</PercentValorizacaoDesvalorizacao>
+			</Ativo>
+			<Ativo>
+				<Nome>ESPECULATIVO - CAJAMAR II - Especulativo Cajamar</Nome>
+				<ValorJusto>SIM</ValorJusto>
+				<Valor>347500000</Valor>
+				<PercentValorizacaoDesvalorizacao>0.0156306209583517</PercentValorizacaoDesvalorizacao>
+			</Ativo>
+		</ValorContabilAtivos>
+		<CriteriosAvaliacao>O valor justo das propriedades para investimento estão suportados por laudos de avaliação elaborados pela Colliers International. O método adotado para o período foi o da capitalização da renda através do fluxo de caixa descontado e que teve como data- base 31 de dezembro de 2020 (data-base do fluxo de caixa). O cálculo e a análise de valor de mercado foram baseados nos estudos das características físicas da propriedade e a sua localização. A metodologia adotada para a avaliação dos três condomínios logísticos investidos pelo Fundo foi de fluxo de caixa descontado. Neste método receitas e despesas são estimadas e um fluxo de caixa é projetado atualizado por uma taxa mínima de atratividade. O valor presente estimado da propriedade é o valor do fluxo de caixa futuro descontado pela menor taxa de retorno atrativo. As taxas foram calculadas de acordo com opções de investimentos no segmento e o risco de negócio de cada empreendimento.</CriteriosAvaliacao>
+		<ProcessosJudiciais>
+		</ProcessosJudiciais>
+		<ProcessosJudiciaisSemelhantes>
+		</ProcessosJudiciaisSemelhantes>
+		<AnaliseImpactos xsi:nil="true"/>
+		<AssembleiaGeral>
+			<EnderecoFisicoDocsAssembleias>Rua Gilberto Sabino, nº215, 4º Andar, Pinheiros, SP</EnderecoFisicoDocsAssembleias>
+			<EnderecoEletronicoDocsAssembleias>admfundos@vortx.com.br ;  www.vortx.com.br</EnderecoEletronicoDocsAssembleias>
+			<MeiosComunicacao>Endereço físico: Rua Gilberto Sabino, nº215, 4º Andar, Pinheiros, SP e endereço eletrônico: admfundos@vortx.com.br  e  www.vortx.com.br</MeiosComunicacao>
+			<RegrasProcParticipacaoCotistas>A Assembleia Geral de Cotistas será instalada com a presença de pelo menos 01 (um) Cotista, sendo que as deliberações poderão ser realizadas mediante processo de consulta formal, sem a necessidade de reunião presencial de cotistas, por meio de correspondência escrita ou eletrônica (e-mail), a ser realizado pelo Administrador junto a cada Cotista do Fundo, desde que observadas as formalidades previstas nos artigos 19, 19-A e 41, inciso I da Instrução CVM nº 472/08. Da consulta deverão constar todos os elementos informativos necessários ao exercício do direito de voto. Cada Cota corresponderá ao direito de 01 (um) voto na Assembleia Geral de Cotistas.</RegrasProcParticipacaoCotistas>
+			<PraticasAssembleiaMeioEletronico>Não possui informação apresentada.</PraticasAssembleiaMeioEletronico>
+		</AssembleiaGeral>
+		<RemuneracaoAdministrador>
+			<PoliticaRemuneracao>O Administrador receberá por seus serviços uma taxa de administração (“Taxa de Administração”) composta de valor equivalente aos percentuais previstos na tabela abaixo, calculados sobre a Base de Cálculo da Taxa de Administração, sendo assegurado um valor mínimo equivalente a R$25.000,00 (vinte e cinco mil reais) por mês. Para fins do cálculo ora previsto, será utilizada a tabela abaixo: Valor Contábil do Patrimônio Líquido ou Valor de Mercado do Fundo Taxa de Administração Até R$ 500.000.000,00 0,95% a.a. De R$ 500.000.000,01 até R$1.000.000.000,00 0,85% a.a. Acima de R$1.000.000.000,01 0,75% a.a.</PoliticaRemuneracao>
+			<ValorPagoAno>0</ValorPagoAno>
+			<PercentPatrimonioContabil>0</PercentPatrimonioContabil>
+			<PercentPatrimonioValorMercado>0</PercentPatrimonioValorMercado>
+		</RemuneracaoAdministrador>
+		<Governanca>
+			<RepresentantesCotistas>
+				<Representante1>
+					<Nome/>
+					<Idade/>
+					<CPF/>
+					<Email/>
+					<Profissao/>
+					<FormacaoAcademica/>
+					<FormaRemuneracao/>
+					<ValorPagoAno xsi:nil="true"/>
+					<PercentPatrimonioContabil xsi:nil="true"/>
+					<PercentPatrimonioValorMercado xsi:nil="true"/>
+					<QtdCotasDetidasFII xsi:nil="true"/>
+					<QtdCotasFIICompradas xsi:nil="true"/>
+					<QtdCotasFIIVendidas xsi:nil="true"/>
+					<DataEleicaoAssembleia xsi:nil="true"/>
+					<TerminoMandato xsi:nil="true"/>
+					<ExperienciasProfUltimosCincoAnos>
+					</ExperienciasProfUltimosCincoAnos>
+					<FundosExercaFuncaoRepresentante>
+					</FundosExercaFuncaoRepresentante>
+					<Eventos>
+						<CondenacaoCriminal xsi:nil="true"/>
+						<CondenacaoProcAdminCVM xsi:nil="true"/>
+					</Eventos>
+				</Representante1>
+				<Representante2>
+					<Nome/>
+					<Idade/>
+					<CPF/>
+					<Email/>
+					<Profissao/>
+					<FormacaoAcademica/>
+					<FormaRemuneracao/>
+					<ValorPagoAno xsi:nil="true"/>
+					<PercentPatrimonioContabil xsi:nil="true"/>
+					<PercentPatrimonioValorMercado xsi:nil="true"/>
+					<QtdCotasDetidasFII xsi:nil="true"/>
+					<QtdCotasFIICompradas xsi:nil="true"/>
+					<QtdCotasFIIVendidas xsi:nil="true"/>
+					<DataEleicaoAssembleia xsi:nil="true"/>
+					<TerminoMandato xsi:nil="true"/>
+					<ExperienciasProfUltimosCincoAnos>
+					</ExperienciasProfUltimosCincoAnos>
+					<FundosExercaFuncaoRepresentante>
+					</FundosExercaFuncaoRepresentante>
+					<Eventos>
+						<CondenacaoCriminal/>
+						<CondenacaoProcAdminCVM/>
+					</Eventos>
+				</Representante2>
+				<Representante3>
+					<Nome/>
+					<Idade/>
+					<CPF/>
+					<Email/>
+					<Profissao/>
+					<FormacaoAcademica/>
+					<FormaRemuneracao/>
+					<ValorPagoAno xsi:nil="true"/>
+					<PercentPatrimonioContabil xsi:nil="true"/>
+					<PercentPatrimonioValorMercado xsi:nil="true"/>
+					<QtdCotasDetidasFII xsi:nil="true"/>
+					<QtdCotasFIICompradas xsi:nil="true"/>
+					<QtdCotasFIIVendidas xsi:nil="true"/>
+					<DataEleicaoAssembleia xsi:nil="true"/>
+					<TerminoMandato xsi:nil="true"/>
+					<ExperienciasProfUltimosCincoAnos>
+					</ExperienciasProfUltimosCincoAnos>
+					<FundosExercaFuncaoRepresentante>
+					</FundosExercaFuncaoRepresentante>
+					<Eventos>
+						<CondenacaoCriminal/>
+						<CondenacaoProcAdminCVM/>
+					</Eventos>
+				</Representante3>
+				<Representante4>
+					<Nome/>
+					<Idade/>
+					<CPF/>
+					<Email/>
+					<Profissao/>
+					<FormacaoAcademica/>
+					<FormaRemuneracao/>
+					<ValorPagoAno xsi:nil="true"/>
+					<PercentPatrimonioContabil xsi:nil="true"/>
+					<PercentPatrimonioValorMercado xsi:nil="true"/>
+					<QtdCotasDetidasFII xsi:nil="true"/>
+					<QtdCotasFIICompradas xsi:nil="true"/>
+					<QtdCotasFIIVendidas xsi:nil="true"/>
+					<DataEleicaoAssembleia xsi:nil="true"/>
+					<TerminoMandato xsi:nil="true"/>
+					<ExperienciasProfUltimosCincoAnos>
+					</ExperienciasProfUltimosCincoAnos>
+					<FundosExercaFuncaoRepresentante>
+					</FundosExercaFuncaoRepresentante>
+					<Eventos>
+						<CondenacaoCriminal/>
+						<CondenacaoProcAdminCVM/>
+					</Eventos>
+				</Representante4>
+				<Representante5>
+					<Nome/>
+					<Idade/>
+					<CPF/>
+					<Email/>
+					<Profissao/>
+					<FormacaoAcademica/>
+					<FormaRemuneracao/>
+					<ValorPagoAno xsi:nil="true"/>
+					<PercentPatrimonioContabil xsi:nil="true"/>
+					<PercentPatrimonioValorMercado xsi:nil="true"/>
+					<QtdCotasDetidasFII xsi:nil="true"/>
+					<QtdCotasFIICompradas xsi:nil="true"/>
+					<QtdCotasFIIVendidas xsi:nil="true"/>
+					<DataEleicaoAssembleia xsi:nil="true"/>
+					<TerminoMandato xsi:nil="true"/>
+					<ExperienciasProfUltimosCincoAnos>
+					</ExperienciasProfUltimosCincoAnos>
+					<FundosExercaFuncaoRepresentante>
+					</FundosExercaFuncaoRepresentante>
+					<Eventos>
+						<CondenacaoCriminal/>
+						<CondenacaoProcAdminCVM/>
+					</Eventos>
+				</Representante5>
+			</RepresentantesCotistas>
+			<DiretorResponsavel>
+				<Nome>Marcos Wanderley Pereira</Nome>
+				<Idade>47</Idade>
+				<CPF>014.255.637-83</CPF>
+				<Email>mw@vortx.com.br</Email>
+				<Profissao>Administrador</Profissao>
+				<FormacaoAcademica>Superior Completo</FormacaoAcademica>
+				<DataInicioFuncao>2018-04-13</DataInicioFuncao>
+				<QtdCotasDetidasFII>0</QtdCotasDetidasFII>
+				<QtdCotasFIICompradas>0</QtdCotasFIICompradas>
+				<QtdCotasFIIVendidas>0</QtdCotasFIIVendidas>
+				<ExperienciasProfUltimosCincoAnos>
+					<Experiencia>
+						<NomeEmpresa>Vórtx DTVM</NomeEmpresa>
+						<Periodo>04/2018 até a presente data</Periodo>
+						<CargoFuncoes>Head Funds Trust Mobiliários</CargoFuncoes>
+						<AtividadePrincipalEmpresa>Distribuidora de Títulos e Valores Mobiliários</AtividadePrincipalEmpresa>
+					</Experiencia>
+					<Experiencia>
+						<NomeEmpresa>BTG Pactual</NomeEmpresa>
+						<Periodo>08/2004 até 06/2017</Periodo>
+						<CargoFuncoes>Administrador de Carteira de Valores Mobiliários</CargoFuncoes>
+						<AtividadePrincipalEmpresa>Distribuidora de Títulos e Valores Mobiliários</AtividadePrincipalEmpresa>
+					</Experiencia>
+				</ExperienciasProfUltimosCincoAnos>
+				<Eventos>
+					<CondenacaoCriminal/>
+					<CondenacaoProcAdminCVM/>
+				</Eventos>
+			</DiretorResponsavel>
+		</Governanca>
+		<DistribuicaoCotistas>
+			<AteCincoPorcento numCotistas="235398" numCotasDetidas="20757449" percDetidoRelTotal="1" percDetidoPF="0.8676" percDetidoPJ="0.1324"/>
+			<AcimaCincoAteDezPorcento/>
+			<AcimaDezAteQuinzePorcento/>
+			<AcimaQuinzeAteVintePorcento/>
+			<AcimaVinteAteTrintaPorcento/>
+			<AcimaTrintaAteQuarentaPorcento/>
+			<AcimaQuarentaAteCinquentaPorcento/>
+			<AcimaCiquentaPorcento/>
+		</DistribuicaoCotistas>
+		<TransacoesInstrucaoCVM>
+		</TransacoesInstrucaoCVM>
+		<PoliticaDivulgacao>
+			<PoliticaDivulgacaoAtoFatoRelevante>Todos os atos ou fatos relevantes do Fundo serão divulgados na página do Fundo, www.vortx.com.br e no sistema FundosNet da B3 S.A.- Brasil, Bolsa e Balcão (˜B3˜) e da CVM.</PoliticaDivulgacaoAtoFatoRelevante>
+			<PoliticaNegociacaoCotas>As cotas do Fundo são negociadas apenas na B3.</PoliticaNegociacaoCotas>
+			<PoliticaExercicioDireitoVoto>O GESTOR DESTE FUNDO ADOTA POLÍTICA DE EXERCÍCIO DE DIREITO DE VOTO EM ASSEMBLEIAS QUE DISCIPLINA OS PRINCÍPIOS GERAIS, O PROCESSO DECISÓRIO E QUAIS SÃO AS MATÉRIAS RELEVANTES OBRIGATÓRIAS PARA O EXERCÍCIO DO DIREITO DE VOTO. TAL POLÍTICA ORIENTA AS DECISÕES DO GESTOR EM ASSEMBLEIAS DE DETENTORES DE ATIVOS QUE CONFIRAM AOS SEUS TITULARES O DIREITO DE VOTO.</PoliticaExercicioDireitoVoto>
+			<FuncResponsaveisPoliticaDivulgacao>Não possui informação apresentada. </FuncResponsaveisPoliticaDivulgacao>
+		</PoliticaDivulgacao>
+		<RegrasPrazosChamadaCapital>Não possui informação apresentada. </RegrasPrazosChamadaCapital>
+	</InformeAnual>
+</DadosEconomicoFinanceiros>
